@@ -6,6 +6,12 @@
 ---
 ## Project Background
 
+Road accidents are a leading cause of fatalities and economic losses worldwide, with the U.S. recording over 6 million crashes annually. Understanding accident patterns is critical for improving public safety, optimizing emergency response, and shaping infrastructure policies.
+
+This project leverages a countrywide dataset of 1.5 million traffic accidents (2016–2020) to:
+- Identify high-risk locations and times for accidents.
+- Analyze contributing factors like weather, road conditions, and time of day.
+- Predict accident severity to help authorities allocate resources efficiently.
 
 | #  | Attribute                   | Description |
 |----|-----------------------------|-------------|
