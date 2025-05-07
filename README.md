@@ -13,6 +13,7 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 - Analyze contributing factors like weather, road conditions, and time of day.
 - Predict accident severity to help authorities allocate resources efficiently.
 
+---
 
 # Data Structure & Initial Checks
 
