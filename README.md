@@ -15,7 +15,7 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 
 ---
 
-# Data Structure & Initial Checks
+## Data Structure & Initial Checks
 
 
 | #  | Attribute                   | Description |
