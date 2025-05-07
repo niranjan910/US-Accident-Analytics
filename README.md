@@ -13,6 +13,10 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 - Analyze contributing factors like weather, road conditions, and time of day.
 - Predict accident severity to help authorities allocate resources efficiently.
 
+
+# Data Structure & Initial Checks
+
+
 | #  | Attribute                   | Description |
 |----|-----------------------------|-------------|
 | 1  | ID                          | This is a unique identifier of the accident record. |
@@ -64,5 +68,5 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 | 47 | Astronomical_Twilight       | Shows the period of day (i.e. day or night) based on astronomical twilight. |
 
 ---
+# Executive Summary
 
-# Data Structure & Initial Checks
