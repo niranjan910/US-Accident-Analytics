@@ -62,3 +62,7 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 | 45 | Civil_Twilight              | Shows the period of day (i.e. day or night) based on civil twilight. |
 | 46 | Nautical_Twilight           | Shows the period of day (i.e. day or night) based on nautical twilight. |
 | 47 | Astronomical_Twilight       | Shows the period of day (i.e. day or night) based on astronomical twilight. |
+
+
+
+# Data Structure & Initial Checks
