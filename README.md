@@ -3,7 +3,6 @@
 **Author:** Niranjan  
 **Date:** 7 May 2025  
 
-
 ---
 ## Project Background
 
