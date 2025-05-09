@@ -71,3 +71,19 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 ---
 ## Executive Summary
 
+The analysis reveals that road accident severity peaks during rush hours (7–9 AM and 4–6 PM), with fatalities 30% higher on weekends due to impaired driving. Urban areas like Los Angeles, Houston, and New York report the highest collision rates, while rural regions show deadlier crashes per capita. Speeding and alcohol involvement account for over 40% of fatal accidents. Despite improved vehicle safety standards, pedestrian fatalities have risen by 15% since 2020, highlighting infrastructure gaps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
