@@ -17,7 +17,6 @@ This project leverages a countrywide dataset of 1.5 million traffic accidents (2
 
 ## Data Structure & Initial Checks
 
-
 | #  | Attribute                   | Description |
 |----|-----------------------------|-------------|
 | 1  | ID                          | This is a unique identifier of the accident record. |
