@@ -4,6 +4,7 @@
 **Date:** 7 May 2025  
 
 ---
+
 ## Project Background
 
 Road accidents are a leading cause of fatalities and economic losses worldwide, with the U.S. recording over 6 million crashes annually. Understanding accident patterns is critical for improving public safety, optimizing emergency response, and shaping infrastructure policies.
