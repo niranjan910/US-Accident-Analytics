@@ -75,7 +75,9 @@ The analysis reveals that road accident severity peaks during rush hours (7–9 
 
 ---
 
-
+- **Email:** niranjan991100@gmail.com  
+- **LinkedIn:** [Niranjan's Profile](https://www.linkedin.com/in/niranjan-a83517229/)
+- **Portfolio**: [Portfolio](https://niranjan910.github.io/NiranjanDataAnalystPortfolio.github.io/)
 
 
 
